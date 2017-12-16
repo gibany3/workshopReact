@@ -1,5 +1,2 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
-}
+@import url('https://getbootstrap.com/dist/css/bootstrap.min.css');
+@import url('https://getbootstrap.com/docs/4.0/examples/blog/blog.css');
